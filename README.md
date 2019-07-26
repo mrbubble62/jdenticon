@@ -1,3 +1,6 @@
+# Increasing entropy with 6x6 grid
+![Alt text](6x6_jdenticon.png?raw=true "")
+
 # [Jdenticon](https://jdenticon.com)
 JavaScript library for generating highly recognizable identicons using HTML5 canvas or SVG.
 
